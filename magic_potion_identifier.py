@@ -24,7 +24,7 @@ def is_magical_potion(power):
 
 
 
-power = 132651201231
+power = 125
 result = is_magical_potion(power)
 print(result)
 
